@@ -1655,7 +1655,7 @@
                 "CustomFieldTranslation"
             ],
             "hasStandardMembers": true,
-            "deleteSupported": true,
+            "deleteSupported": false,
             "decompositionConfig": {
                 "strategy": "describeMetadata",
                 "workspaceStrategy": "folderPerSubtype",
@@ -3847,7 +3847,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Custom Field",
-            "nameForMsgsPlural": "Custom Fields"
+            "nameForMsgsPlural": "Custom Fields",
+            "deleteSupported": true
         },
         "Index": {
             "parent": {
@@ -3987,7 +3988,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Index",
-            "nameForMsgsPlural": "Indexs"
+            "nameForMsgsPlural": "Indexs",
+            "deleteSupported": true
         },
         "BusinessProcess": {
             "parent": {
@@ -4127,7 +4129,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Business Process",
-            "nameForMsgsPlural": "Business Processes"
+            "nameForMsgsPlural": "Business Processes",
+            "deleteSupported": true
         },
         "CompactLayout": {
             "parent": {
@@ -4267,7 +4270,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Compact Layout",
-            "nameForMsgsPlural": "Compact Layouts"
+            "nameForMsgsPlural": "Compact Layouts",
+            "deleteSupported": true
         },
         "RecordType": {
             "parent": {
@@ -4407,7 +4411,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Record Type",
-            "nameForMsgsPlural": "Record Types"
+            "nameForMsgsPlural": "Record Types",
+            "deleteSupported": true
         },
         "WebLink": {
             "parent": {
@@ -4547,7 +4552,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Web Link",
-            "nameForMsgsPlural": "Web Links"
+            "nameForMsgsPlural": "Web Links",
+            "deleteSupported": true
         },
         "ValidationRule": {
             "parent": {
@@ -4687,7 +4693,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Validation Rule",
-            "nameForMsgsPlural": "Validation Rules"
+            "nameForMsgsPlural": "Validation Rules",
+            "deleteSupported": true
         },
         "SharingReason": {
             "parent": {
@@ -4827,7 +4834,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Sharing Reason",
-            "nameForMsgsPlural": "Sharing Reasons"
+            "nameForMsgsPlural": "Sharing Reasons",
+            "deleteSupported": true
         },
         "ListView": {
             "parent": {
@@ -4967,7 +4975,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "List View",
-            "nameForMsgsPlural": "List Views"
+            "nameForMsgsPlural": "List Views",
+            "deleteSupported": true
         },
         "FieldSet": {
             "parent": {
@@ -5107,7 +5116,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Field Set",
-            "nameForMsgsPlural": "Field Sets"
+            "nameForMsgsPlural": "Field Sets",
+            "deleteSupported": true
         },
         "CustomFieldTranslation": {
             "parent": {
@@ -5124,7 +5134,7 @@
                     "CustomFieldTranslation"
                 ],
                 "hasStandardMembers": true,
-                "deleteSupported": true,
+                "deleteSupported": false,
                 "decompositionConfig": {
                     "strategy": "describeMetadata",
                     "workspaceStrategy": "folderPerSubtype",
@@ -5157,7 +5167,8 @@
             "isAddressable": false,
             "isSourceTracked": false,
             "nameForMsgs": "Custom Field Translation",
-            "nameForMsgsPlural": "Custom Field Translations"
+            "nameForMsgsPlural": "Custom Field Translations",
+            "deleteSupported": false
         },
         "SharingOwnerRule": {
             "parent": {
@@ -5196,7 +5207,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Sharing Owner Rule",
-            "nameForMsgsPlural": "Sharing Owner Rules"
+            "nameForMsgsPlural": "Sharing Owner Rules",
+            "deleteSupported": true
         },
         "SharingCriteriaRule": {
             "parent": {
@@ -5235,7 +5247,8 @@
             "isAddressable": true,
             "isSourceTracked": true,
             "nameForMsgs": "Sharing Criteria Rule",
-            "nameForMsgsPlural": "Sharing Criteria Rules"
+            "nameForMsgsPlural": "Sharing Criteria Rules",
+            "deleteSupported": true
         }
     }
 }
