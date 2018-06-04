@@ -2,7 +2,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\layouts",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\layouts",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -92,7 +92,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -107,7 +107,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -122,7 +122,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields\\MedicineID__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields\\MedicineID__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -152,7 +152,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields\\Trailphase__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields\\Trailphase__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -167,7 +167,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\MedicineTrail__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\MedicineTrail__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -182,7 +182,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\permissionsets",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -212,7 +212,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\profiles",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -242,7 +242,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -257,7 +257,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs\\MedicineTrail__c.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs\\MedicineTrail__c.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -272,7 +272,7 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting",
             "isDirectory": true,
             "isMetadataFile": false,
