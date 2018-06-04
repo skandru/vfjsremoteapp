@@ -1,0 +1,122 @@
+<apex:page sidebar="false" controller="medicinetrails" showHeader="false" title="Medical Trails Search Page">
+<style>
+    body{
+      font-family: Helvetica, Arial, sans-serif;
+      background:#333;
+    }
+    h2{
+      color:#FFF;
+      font-size: 2em;
+      font-weight: 100;
+      text-align: center;
+    }
+    #searchBar{
+      width:100%;
+      float:left;
+    }
+    #objectName{
+      width: 70%;
+      float: left;
+      border: none;
+      border-radius: 20px;
+      padding: 2% 5%;
+      font-size: 1.5em;
+      color:#666;
+      outline:none;
+    }
+    #btnsearch{
+      background: aqua;
+      border:none;
+      padding: 2% 5%;
+      border-radius: 20px;
+      margin: 0% 1%;
+      width: 18%;
+      font-size: 1.5em;
+      cursor: pointer;
+      float: left;
+      color:#333;
+      outline:none;
+    }
+    #btnsearch:hover{
+      background:#DFF;
+      color:#000;
+    }
+    #btnsearch:active{
+      background:#777;
+      color:#000;
+    }
+    #records{
+      border-collapse: collapse;
+      margin-top: 50px;
+      width:100%;
+      background:#FFF;
+      float:left;
+    }
+    #records th, #records td{
+      border: 1px solid aqua;
+      padding: 10px;
+    }
+    #records th{
+      background-color: aqua;
+      color: #333;
+    }
+    #records tr:nth-child(odd){
+      color: #000000;
+      background-color: #DDFFFF;
+    }
+    details p{
+      color: #FFF;
+      font-size:2em;
+    }
+
+</style>
+<script type="text/javascript">
+function getRecordDetails()
+{
+    var objName = document.getElementById("objectName").value;
+    visualforce.remoting.Manager.invokeAction(
+      '{!$RemoteAction.medicinetrails.getRecords}',
+      objName,
+      function(result,event){
+        if(event.status){
+          var l= result.length;
+          if(l==0){
+            document.getElementById("details").innerHTML='<p>No Results </p>';
+          }
+          else{
+            var markup = '<table id="records">';
+            markup += '<tr><th>Serial No.</th><th>Medicine</th><th>Trail Phase</th><th>TrailStatus</th></tr>';
+            for(var i=0; i<l; i++){
+              var recordDetail = '<tr>' + 
+                "<td>" + result[i].Name + "</td>" +
+                "<td>" + result[i].Medicine__c + "</td>" +
+                "<td>" + result[i].Trailphase__c + "</td>" +
+                "<td>" + result[i].Trailstatus__c + "</td>" +
+                '</tr>';
+               markup += recordDetail; 
+            }
+            document.getElementById("details").innerHTML = markup;
+
+          }
+        }
+        else if(event.type==='exception'){
+            document.getElementById("details").innerHTML = event.message + "<br/>\n<pre>" + event.where + "</pre>";
+        }
+        else{
+          document.getElementById("details").innerHTML = event.message;
+        }
+      },
+      {escape: true}
+    );
+}
+</script>
+<h2> Medicine Trails Search </h2> <br/>
+<div id="searchBar">
+<input type="text" id="objectName" placeholder="Enter Medicine of the the trails"/>
+<input type="button" value = "Search" id="btnSearch" onclick="getRecordDetails();" />
+</div>
+<div id="details">
+</div>
+</apex:page>
+
+</apex:page>
