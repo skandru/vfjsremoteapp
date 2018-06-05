@@ -2,14 +2,14 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528085198616,
             "changeTime": 1528085198616,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528085198616,
             "changeTime": 1528085198616,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528091090859,
             "changeTime": 1528091090859,
             "contentHash": "e9cd9e2eba68b125377f7b10cd1f4ad86d88e9cd",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528085198616,
             "changeTime": 1528085198616,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\layouts",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\layouts",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528091090802,
             "changeTime": 1528091090802,
             "contentHash": "892720928fb8cb18851607b071ce72325b6212fa",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\layouts\\MedicineTrail__c-MedicineTrail Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\layouts\\MedicineTrail__c-MedicineTrail Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 3221,
             "modifiedTime": 1528091090804,
             "changeTime": 1528091090804,
             "contentHash": "f7f11f84b61bdb17ac9f51f7305823ca30479b7e",
-            "isMetadataFile": true,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +92,14 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528091090775,
             "changeTime": 1528091090775,
             "contentHash": "6f68583ff185f5691c0a06104fbe09efa3a10a80",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +107,14 @@
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528091090783,
             "changeTime": 1528091090783,
             "contentHash": "37919b5492c67e241ca4c4bc3e8aeda6b33dfb7a",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -129,21 +129,37 @@
             "size": 0,
             "modifiedTime": 1528100373763,
             "changeTime": 1528100373763,
+            "contentHash": "fcb2a757e3c4c1a93e9d8969ad59cd732d325e5a",
             "isWorkspace": false,
-            "contentHash": "fcb2a757e3c4c1a93e9d8969ad59cd732d325e5a"
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields\\MedicineID__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields\\MedicineID__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 374,
             "modifiedTime": 1528091090789,
-            "changeTime": 1528091090789,
+            "changeTime": 1528100118235,
             "contentHash": "e24df48892348e96d39e491e4812df26264ae8cc",
-            "isMetadataFile": true,
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields\\Medicine__c.field-meta.xml",
+        {
             "state": "u",
+            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields\\Medicine__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 400,
+            "modifiedTime": 1528100415102,
+            "changeTime": 1528100415102,
+            "contentHash": "ed3d3fa585709fead62d7a1fffa74eb7ee496d7e",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -158,141 +174,9 @@
             "size": 406,
             "modifiedTime": 1528100296168,
             "changeTime": 1528100296168,
-            "isWorkspace": false,
-            "contentHash": "1ee10ba4e1fc5b739d378c6a0d0eb39f43352cb9"
-        }
-    ],
-    [
-        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\MedicineTrail__c.object-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\MedicineTrail__c.object-meta.xml",
-            "isDirectory": false,
-            "size": 2133,
-            "modifiedTime": 1528091090783,
-            "changeTime": 1528091090783,
-            "contentHash": "7d73ad1f6da3c9a0229fee9e2142703d71541fd7",
-            "isMetadataFile": true,
-            "state": "u",
+            "contentHash": "1ee10ba4e1fc5b739d378c6a0d0eb39f43352cb9",
             "isWorkspace": false,
             "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\permissionsets",
-        {
-            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\permissionsets",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1528091090860,
-            "changeTime": 1528091090860,
-            "contentHash": "e37e6b80c2c82a8539c3b6f58309780f6dfdad08",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\permissionsets\\vfjsremoteapp.permissionset-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\permissionsets\\vfjsremoteapp.permissionset-meta.xml",
-            "isDirectory": false,
-            "size": 1062,
-            "modifiedTime": 1528091090862,
-            "changeTime": 1528091090862,
-            "contentHash": "cdcac9a6a523e6916927b850315d58d53b015691",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\profiles",
-        {
-            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\profiles",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1528099807435,
-            "changeTime": 1528099807435,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
-            "isDirectory": false,
-            "size": 18465,
-            "modifiedTime": 1528091090854,
-            "changeTime": 1528099692080,
-            "contentHash": "e5354abe859defa903c1cf407c7cea22f4e1659c",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs",
-        {
-            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1528091090806,
-            "changeTime": 1528091090806,
-            "contentHash": "45d4a82ee24e95c23be4788d3af9b08c864b467f",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs\\MedicineTrail__c.tab-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs\\MedicineTrail__c.tab-meta.xml",
-            "isDirectory": false,
-            "size": 224,
-            "modifiedTime": 1528091090808,
-            "changeTime": 1528091090808,
-            "contentHash": "45822ec8e50c3d0011f2c17d00dbb7fdf22ee789",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\skand\\visualforce\\vfjsremoting",
-        {
-            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1528096597326,
-            "changeTime": 1528096597326,
-            "contentHash": "cdb5f47970eb0ee079e9f0114380000dc03673e5",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields\\Medicine__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\fields\\Medicine__c.field-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 400,
-            "modifiedTime": 1528100415102,
-            "changeTime": 1528100415102,
-            "contentHash": "ed3d3fa585709fead62d7a1fffa74eb7ee496d7e"
         }
     ],
     [
@@ -305,7 +189,129 @@
             "size": 404,
             "modifiedTime": 1528091090794,
             "changeTime": 1528100273368,
-            "contentHash": "23b1014f41b18077011b6f5bcf2db3075e20f4e6"
+            "contentHash": "23b1014f41b18077011b6f5bcf2db3075e20f4e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\MedicineTrail__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\objects\\MedicineTrail__c\\MedicineTrail__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2133,
+            "modifiedTime": 1528091090783,
+            "changeTime": 1528091090783,
+            "contentHash": "7d73ad1f6da3c9a0229fee9e2142703d71541fd7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528091090860,
+            "changeTime": 1528091090860,
+            "contentHash": "e37e6b80c2c82a8539c3b6f58309780f6dfdad08",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\permissionsets\\vfjsremoteapp.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\permissionsets\\vfjsremoteapp.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1062,
+            "modifiedTime": 1528091090862,
+            "changeTime": 1528091090862,
+            "contentHash": "cdcac9a6a523e6916927b850315d58d53b015691",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528099807435,
+            "changeTime": 1528099807435,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18465,
+            "modifiedTime": 1528091090854,
+            "changeTime": 1528099692080,
+            "contentHash": "e5354abe859defa903c1cf407c7cea22f4e1659c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528091090806,
+            "changeTime": 1528091090806,
+            "contentHash": "45d4a82ee24e95c23be4788d3af9b08c864b467f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs\\MedicineTrail__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting\\force-app\\main\\default\\tabs\\MedicineTrail__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1528091090808,
+            "changeTime": 1528091090808,
+            "contentHash": "45822ec8e50c3d0011f2c17d00dbb7fdf22ee789",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\visualforce\\vfjsremoting",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\skand\\visualforce\\vfjsremoting",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528125690836,
+            "changeTime": 1528125690836,
+            "contentHash": "d60ca85121c3e381a69f4983e2df482c60574171",
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ]
 ]

@@ -5,10 +5,10 @@
       background:#333;
     }
     h2{
-      color:#FFF;
-      font-size: 2em;
+      color: aqua;
+      font-size: 3em;
       font-weight: 100;
-      text-align: center;
+      text-align: right;
     }
     #searchBar{
       width:100%;
@@ -26,16 +26,16 @@
     }
     #btnsearch{
       background: aqua;
-      border:none;
+      border: none;
       padding: 2% 5%;
       border-radius: 20px;
       margin: 0% 1%;
       width: 18%;
-      font-size: 1.5em;
+      font-size: 2em;
       cursor: pointer;
       float: left;
-      color:#333;
-      outline:none;
+      color: #333;
+      outline: none;
     }
     #btnsearch:hover{
       background:#DFF;
@@ -74,18 +74,19 @@
 function getRecordDetails()
 {
     var objName = document.getElementById("objectName").value;
-    visualforce.remoting.Manager.invokeAction(
+    Visualforce.remoting.Manager.invokeAction(
       '{!$RemoteAction.medicinetrails.getRecords}',
       objName,
       function(result,event){
         if(event.status){
+            
           var l= result.length;
           if(l==0){
-            document.getElementById("details").innerHTML='<p>No Results </p>';
+            document.getElementById("details").innerHTML='<p> No Results </p>';
           }
           else{
             var markup = '<table id="records">';
-            markup += '<tr><th>Serial No.</th><th>Medicine</th><th>Trail Phase</th><th>TrailStatus</th></tr>';
+            markup += '<tr><th>Medicine Trail</th><th>Medicine</th><th>Trail Phase</th><th>TrailStatus</th></tr>';
             for(var i=0; i<l; i++){
               var recordDetail = '<tr>' + 
                 "<td>" + result[i].Name + "</td>" +
@@ -113,9 +114,8 @@ function getRecordDetails()
 <h2> Medicine Trails Search </h2> <br/>
 <div id="searchBar">
 <input type="text" id="objectName" placeholder="Enter Medicine of the the trails"/>
-<input type="button" value = "Search" id="btnSearch" onclick="getRecordDetails();" />
+<input type="button" value = "Search" id="btnsearch" onclick="getRecordDetails();" />
 </div>
 <div id="details">
 </div>
 </apex:page>
-

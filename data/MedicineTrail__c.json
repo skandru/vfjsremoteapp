@@ -1,0 +1,34 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "MedicineTrail__c",
+                "referenceId": "MedicineTrail__cRef1"
+            },
+            "Name": "Heart Drugs Trail",
+            "Medicine__c": "Heart Vaccination",
+            "Trailphase__c": "First",
+            "Trailstatus__c": "In Progress"
+        },
+        {
+            "attributes": {
+                "type": "MedicineTrail__c",
+                "referenceId": "MedicineTrail__cRef2"
+            },
+            "Name": "HIV Trail",
+            "Medicine__c": "HIV drug",
+            "Trailphase__c": "Second",
+            "Trailstatus__c": "Completed"
+        },
+        {
+            "attributes": {
+                "type": "MedicineTrail__c",
+                "referenceId": "MedicineTrail__cRef3"
+            },
+            "Name": "HIV Trail",
+            "Medicine__c": "HIV drug II",
+            "Trailphase__c": "Third",
+            "Trailstatus__c": "In progress"
+        }
+    ]
+}
